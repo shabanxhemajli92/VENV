@@ -1,5 +1,9 @@
 from colorama import *
+
 init()
+
+
+
 Loop_variable=True
 
 while Loop_variable == True:
